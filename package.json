@@ -1,0 +1,17 @@
+{
+  "name": "midi-musicxml-converter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5",
+    "child_process": "^1.0.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
